@@ -1,0 +1,22 @@
+{
+    "metmuseum": {
+        "properties": {
+            "objectID" : {
+                "type": "text",
+                "index": true
+            },
+            "primaryImage" : {
+                "type": "text",
+                "index": true
+            },
+            "title": {
+                "type": "text",
+                "index": false
+            },
+            "artistDisplayName": {
+                "type": "text",
+                "index": false
+            }
+        }
+    }
+}
