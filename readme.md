@@ -1,4 +1,4 @@
-# Mini Book Management System
+# The Metropolitan Museum of Art Collection Search System
 
 メトロポリタン美術館の所属作品を検索するシステムです。  
 Flask＋Elasticsearchで動作しています。  
