@@ -49,25 +49,19 @@ CTRL+Cが入力されるまで、Flaskが動作し続けます
     - http://localhost:8080
 
 次のような画面が出れば成功です
+![serch](https://user-images.githubusercontent.com/45332421/50080215-f1cce900-022e-11e9-8119-6fc956d8b62b.JPG)
 
 
 ### アプリを使う
 
-1. isbnを入力して「登録」ボタンを押します
-![regist](https://user-images.githubusercontent.com/37906793/48471080-6ed30000-e836-11e8-8f78-f446eec11e52.png)
-    - この時、isbnには「-」を入れないでください
-    - 現在は、登録が成功/失敗のメッセージが出ません
+1. 好きな番号を入力して「serch」ボタンを押します
+![inputnumber](https://user-images.githubusercontent.com/45332421/50080119-baf6d300-022e-11e9-85fd-4633f72830d0.JPG)
 
-2. 「書籍検索」ボタンで「書籍検索」画面に映ります
-![search](https://user-images.githubusercontent.com/37906793/48471097-75fa0e00-e836-11e8-8711-f0129d999c63.png)
 
-3. 例えば、タイトルに「Python」と入力して「検索」ボタンをクリックすると、結果が表示されます
-![result](https://user-images.githubusercontent.com/37906793/48471113-7db9b280-e836-11e8-8920-9aba5d1b0d89.png)
-
-4. タイトルをクリックすると詳細が表示されます
-![book](https://user-images.githubusercontent.com/37906793/48471803-1d2b7500-e838-11e8-8416-935d5dc07c4e.png)
+2. 検索結果が表示されます
+![result](https://user-images.githubusercontent.com/45332421/50080191-e4176380-022e-11e9-93da-5f0d23129a3c.JPG)
 
 
 ## Authors
 
-- [michihosokawa](https://github.com/michihosokawa)
+- [leadinge-nakagawa](https://github.com/leadinge-nakagawa/METMuseum)
