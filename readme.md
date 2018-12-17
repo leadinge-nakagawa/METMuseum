@@ -1,8 +1,8 @@
 # Mini Book Management System
 
-簡易的な書籍管理システムです。  
+メトロポリタン美術館の所属作品を検索するシステムです。  
 Flask＋Elasticsearchで動作しています。  
-内部では、Google Books API を呼び出しています。
+内部では、The Metropolitan Museum of Art Collection API を呼び出しています。
 
 ## Requirement
 
@@ -49,7 +49,6 @@ CTRL+Cが入力されるまで、Flaskが動作し続けます
     - http://localhost:8080
 
 次のような画面が出れば成功です
-![start](https://user-images.githubusercontent.com/37906793/48470990-3d5a3480-e836-11e8-9a8e-7190090894dc.png)
 
 
 ### アプリを使う
