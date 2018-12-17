@@ -49,17 +49,22 @@ CTRL+Cが入力されるまで、Flaskが動作し続けます
     - http://localhost:8080
 
 次のような画面が出れば成功です
+
 ![serch](https://user-images.githubusercontent.com/45332421/50080215-f1cce900-022e-11e9-8119-6fc956d8b62b.JPG)
 
 
 ### アプリを使う
 
 1. 好きな番号を入力して「serch」ボタンを押します
+
 ![inputnumber](https://user-images.githubusercontent.com/45332421/50080119-baf6d300-022e-11e9-85fd-4633f72830d0.JPG)
 
 
+
 2. 検索結果が表示されます
+
 ![result](https://user-images.githubusercontent.com/45332421/50080191-e4176380-022e-11e9-93da-5f0d23129a3c.JPG)
+
 
 
 ## Authors
